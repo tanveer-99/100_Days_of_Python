@@ -1,0 +1,1 @@
+# This is a day 12 project of a number guessing game where you would be given 10 or 5 lives based on the difficulty level to guess the correct number.
