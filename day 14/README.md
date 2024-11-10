@@ -1,0 +1,1 @@
+# this is a Higher-Lower game python project, that tells you to compare two inputs and then continue the process if you are right and finally tells how many points you got, when you guess the wrong answer.
