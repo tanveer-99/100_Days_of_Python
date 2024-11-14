@@ -1,6 +1,6 @@
 ### 100 Days of Code: The Complete Python Pro Bootcamp
 
-I have started the > 100 days of code course by Angela Yu on Udemy.
+I have started the `100 days of code` course by Angela Yu on Udemy.
 I've found so much positive reviews of this course in google and youtube, so I chose this course to learn python.
 
 Also, this course touches some major fields in technology where python is used, such as Web, Data analytics, Machine learning, etc.
