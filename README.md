@@ -7,5 +7,5 @@ Also, this course touches some major fields in technology where python is used, 
 
 I would try to upload the codes of most of the major projects done in the modules of the course and give a description of what each project does in each directory.
 
-I hope I can finish the course completely.    
+I hope I can finish the course completely.     
  
